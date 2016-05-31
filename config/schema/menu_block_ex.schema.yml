@@ -1,0 +1,13 @@
+block.settings.menu_block_ex_menu_block:*:
+  type: block_settings
+  label: 'Menu block ex'
+  mapping:
+    level:
+      type: integer
+      label: 'Starting level'
+    depth:
+      type: integer
+      label: 'Maximum number of levels'
+    parent:
+      type: string
+      label: "The menu's parent item"
