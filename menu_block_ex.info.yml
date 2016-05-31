@@ -1,0 +1,5 @@
+name: Menu Block Ex
+type: module
+description: "An extended version of menu block."
+core: 8.x
+package: Other
